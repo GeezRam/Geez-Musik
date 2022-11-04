@@ -1,6 +1,6 @@
 .env
 .cache
-anonxlogs.txt
+izzymusiklogs.txt
 .DS_Store
 *.session
 raw_files/

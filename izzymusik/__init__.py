@@ -1,4 +1,4 @@
-from izzymusik.core.bot import AnonXBot
+from izzymusik.core.bot import izzymusikBot
 from izzymusik.core.dir import dirr
 from izzymusik.core.git import git
 from izzymusik.core.userbot import Userbot
@@ -23,7 +23,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = AnonXBot()
+app = izzymusikBot()
 
 # Assistant Client
 userbot = Userbot()
